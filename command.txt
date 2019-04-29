@@ -292,4 +292,4 @@ karramac@N-20HEPF17ASA3 MINGW64 /c/Gitstore (master)
 $
 
 karramac@N-20HEPF17ASA3 MINGW64 /c/Gitstore (master)
-$
+$test entry
